@@ -1008,8 +1008,8 @@
             }
 
             .skill-node {
-                width: 100px;
-                height: 100px;
+                width: 180px;
+                height: 140px;
                 font-size: 0.7rem;
             }
 
@@ -1023,3 +1023,4 @@
             }
 
         }
+
