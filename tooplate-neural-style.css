@@ -597,7 +597,7 @@
         }
 
         /* Skills */
-        .skills-container {
+       .skills-container {
             display: flex;
             flex-wrap: wrap;
             gap: 20px;
@@ -606,8 +606,8 @@
 
         .skill-node {
             font-family: 'Audiowide', sans-serif;
-            width: 120px;
-            height: 120px;
+            width: 180px;
+            height: 150px;
             background: var(--bg-glass);
             border: 2px solid var(--primary);
             border-radius: 50%;
@@ -617,9 +617,9 @@
             position: relative;
             transition: all 0.3s ease;
             cursor: pointer;
-            font-weight: 400;
-            font-size: 0.8rem;
-            letter-spacing: 1px;
+            font-weight: 300;
+            font-size: 0.7rem;
+            letter-spacing: 0px;
             text-transform: uppercase;
         }
 
@@ -1021,4 +1021,5 @@
             .about-content h3 {
                 font-size: 1.5rem;
             }
+
         }
