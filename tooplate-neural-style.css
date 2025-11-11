@@ -427,7 +427,7 @@
 
         /* About Section */
         .about-container {
-            display: grid;
+            display: center;
             grid-template-columns: 1fr 2fr;
             gap: 50px;
             align-items: center;
@@ -1023,4 +1023,5 @@
             }
 
         }
+
 
